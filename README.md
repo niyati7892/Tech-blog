@@ -56,7 +56,7 @@ See the open issues for a list of proposed features (and known issues). Testing 
  Extensive walk through of Tutorial detailed in Google Drive link: https://docs.google.com/document/d/1CLQaa7opT9E8FWOhucZHnHVYg6GNOxxiVJsA4riHLUo/edit?usp=sharing
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Github Repo
-Repo Link: 
+Repo Link: https://github.com/niyati7892/Tech-blog
