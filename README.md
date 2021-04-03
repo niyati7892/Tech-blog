@@ -6,7 +6,7 @@
 - [Usage](#usage)
 - [Tests](#tests)
 - [License](#license)
-- [Github repo](#Repo link)
+- [Githubrepo](#Repolink)
 
 
 <h1> ## Reverse-Engineering </h1>
@@ -14,10 +14,10 @@
   This project is a walk through of a codebase that the user can use to create a new project with NPM,  Node, Passport, Sequelize and MySQL
 
   Screenshot of Project (Google Chrome): 
-  Tutorial
+
   ![Screenshot](https://github.com/niyati7892/Tech-blog/blob/main/Screen%20Shot%202021-04-02%20at%2011.17.43%20PM.png)
   Web App
-  ![Screenshot]()
+  ![Screenshot](https://github.com/niyati7892/Tech-blog/blob/main/Screen%20Shot%202021-04-02%20at%2011.18.22%20PM.png)
 
 
 ## Installation
