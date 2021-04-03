@@ -15,7 +15,7 @@
 
   Screenshot of Project (Google Chrome): 
   Tutorial
-  ![Screenshot]()
+  ![Screenshot](https://github.com/niyati7892/Tech-blog/blob/main/Screen%20Shot%202021-04-02%20at%2011.17.43%20PM.png)
   Web App
   ![Screenshot]()
 
